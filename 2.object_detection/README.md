@@ -1,7 +1,7 @@
  # Football play detection
- ### Taeho KIM, Kyung Hee UNIV. <a href="https://github.com/HwangToeMat">GitHub Link</a>
+ ### Taeho KIM, Kyung Hee UNIV. <a href="https://github.com/HwangToeMat">[GitHub Link]</a>
  ## Data Download
- **EasyDownloader [<a href="https://github.com/HwangToeMat/Open-Images_EasyDownload">GitHub Link</a>]**
+ **EasyDownloader <a href="https://github.com/HwangToeMat/Open-Images_EasyDownload">[GitHub Link]</a>**
 
 Download images that have both 'football category' and 'personal category' in each image with the code below.
 ```
