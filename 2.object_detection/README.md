@@ -47,11 +47,11 @@ We used **ssdlite_mobilenet_v2_coco[<a href="http://download.tensorflow.org/mode
 ## Result
 ### graph
 **DetectionBoxes_Precision**
-![DetectionBoxes_Precision](DetectionBoxes_Precision.png)
+![DetectionBoxes_Precision](images/DetectionBoxes_Precision.png)
 **DetectionBoxes_Recall**
-![DetectionBoxes_Recall](DetectionBoxes_Recall.png)
+![DetectionBoxes_Recall](images/DetectionBoxes_Recall.png)
 ### Image(Left : our model / Right : ground truth )
-![result1]("images/result1.png")
+![result1](images/result1.png)
 ![result2](images/result2.png)
 ![result3](images/result3.png)
 **As you can see in the image of the result, GT recognizes people as one, but in our model, we see one by one.**
