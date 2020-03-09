@@ -54,4 +54,6 @@ We used **ssdlite_mobilenet_v2_coco[<a href="http://download.tensorflow.org/mode
 ![result1](images/result1.png)
 ![result2](images/result2.png)
 ![result3](images/result3.png)
+
+## conclusion
 **As you can see in the image of the result, GT recognizes people as one, but in our model, we see one by one.**
