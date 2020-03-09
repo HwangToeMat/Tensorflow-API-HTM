@@ -45,13 +45,15 @@ import pandas as pd
 
 TARGET_CLASSES = ['Football', 'Person']
 
-CLASS_FILE_PATH = '/content/drive/My Drive/api_master/models/research/object_detection/tain_data/bbox/label_data.csv'
-ANNOTATION_FILE_PATH = '/content/drive/My Drive/api_master/models/research/object_detection/tain_data/bbox/bbox_data.csv'
+CLASS_FILE_PATH = '../0.Open-Images_EasyDownload/train_data/bbox/label_data.csv'
+ANNOTATION_FILE_PATH = '../0.Open-Images_EasyDownload/train_data/bbox/bbox_data.csv'
 
 flags = tf.app.flags
 flags.DEFINE_string(
-    'data_dir', '/content/drive/My Drive/api_master/models/research/object_detection/tain_data/images', 'Root directory to raw open image dataset.')
-flags.DEFINE_string('output_dir', '', 'Path to directory to output TFRecords.')
+    'data_dir', '../0.Open-Images_EasyDownload/train_data/images', 'Root directory to raw open image dataset.')
+flags.DEFINE_string('output_dir', '/Football_tf_record',
+                    'Path to directory to output TFRecords.')
+
 flags.DEFINE_string('label_map_path', 'Football_label_map.pbtxt',
                     'Path to label map proto')
 flags.DEFINE_integer('num_shards', 10, 'Number of TFRecord shards')
