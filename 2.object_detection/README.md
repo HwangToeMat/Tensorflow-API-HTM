@@ -43,7 +43,7 @@ python create_Football_tf_record.py
 | ssd_mobilenet_v2_coco      | 31      | 22 |
 | **ssdlite_mobilenet_v2_coco**      | **27**      | **22** |
 
-We used **ssdlite_mobilenet_v2_coco[<a href="http://download.tensorflow.org/models/object_detection/ssdlite_mobilenet_v2_coco_2018_05_09.tar.gz">Download Link</a>]** to analyze soccer games in real time because we *need fast computing speed.*
+We used **ssdlite_mobilenet_v2_coco<a href="http://download.tensorflow.org/models/object_detection/ssdlite_mobilenet_v2_coco_2018_05_09.tar.gz">[Download Link]</a>** to analyze soccer games in real time because we *need fast computing speed.*
 
 ## Result
 ### graph
