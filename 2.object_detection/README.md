@@ -57,4 +57,4 @@ We used **ssdlite_mobilenet_v2_coco<a href="http://download.tensorflow.org/model
 ![result3](images/result3.png)
 
 ## Conclusion
-**As you can see in the image of the result, GT recognizes people as one, but in our model, we see one by one.**
+**As you can see in the image of the result, ground truth recognizes people as one, but in our model, we see one by one.**
