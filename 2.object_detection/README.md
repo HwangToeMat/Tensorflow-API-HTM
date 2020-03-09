@@ -50,6 +50,7 @@ We used **ssdlite_mobilenet_v2_coco<a href="http://download.tensorflow.org/model
 **DetectionBoxes_Precision**
 
 ![DetectionBoxes_Precision](images/DetectionBoxes_Precision.png)
+
 **DetectionBoxes_Recall**
 
 ![DetectionBoxes_Recall](images/DetectionBoxes_Recall.png)
