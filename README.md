@@ -8,5 +8,5 @@ As you can see in the picture below, Inception_Net makes it easy to find a bus.
 ![image1](/1.classification/image/image0.jpg)
 
 ## 2. Object_detection <a href="https://github.com/HwangToeMat/Tensorflow-API-HTM/blob/master/2.object_detection">[Football play detection]</a>
-We used **ssdlite_mobilenet_v2_coco<a href="http://download.tensorflow.org/models/object_detection/ssdlite_mobilenet_v2_coco_2018_05_09.tar.gz">[Download Link]</a>** to analyze soccer games in real time because we *need fast computing speed.* As you can see in the image below, our model(Left) performs very well even though it is a lightweight model.
+We used **ssdlite_mobilenet_v2_coco<a href="http://download.tensorflow.org/models/object_detection/ssdlite_mobilenet_v2_coco_2018_05_09.tar.gz">[Download Link]</a>** to analyze soccer games in real time because we *need fast computing speed.* But as you can see in the image below, our model(Left) performs very well even though it is a lightweight model.
 ![result3](/2.object_detection/images/result3.png)
