@@ -438,7 +438,9 @@ run_inference_on_image('image/reCAPTCHA9.png')
     trolleybus, trolley coach, trackless trolley (score = 0.00152)
     tobacco shop, tobacconist shop, tobacconist (score = 0.00088)
     thresher, thrasher, threshing machine (score = 0.00087)
-    
+
+### Summary
+
 ![image1](/1.classification/image/image1.jpg)
 ![image2](/1.classification/image/image2.jpg)
 
