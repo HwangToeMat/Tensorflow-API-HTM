@@ -1,13 +1,3 @@
----
-title: Break through the reCAPTCHA with Tensorflow API
-image: https://github.com/HwangToeMat/Tensorflow-API-HTM/blob/master/1.classification/image/image0.jpg?raw=true
-description: >
-  Break through the security program for prevent ing macros, reCAPTCHA , using pretrained model[Inception_Net]. As you can see in the picture below, Inception_Net makes it easy to find a bus. 
-layout: post
-order: 2
-author: author1
----
-
 # 1. Classification  <a href="https://github.com/HwangToeMat/Tensorflow-API-HTM/blob/master/1.classification/reCAPTCHA_classification.ipynb">[Break through the reCAPTCHA]</a>
 
 ### Taeho KIM, Kyung Hee UNIV. <a href="https://github.com/HwangToeMat">GitHub Link</a>
