@@ -1,7 +1,9 @@
 
-# Break through the reCAPTCHA
+# 1. Classification  <a href="https://github.com/HwangToeMat/Tensorflow-API-HTM/blob/master/1.classification/reCAPTCHA_classification.ipynb">[Break through the reCAPTCHA]</a>
 
 ### Taeho KIM, Kyung Hee UNIV. <a href="https://github.com/HwangToeMat">GitHub Link</a>
+
+Break through the security program for prevent ing macros, reCAPTCHA , using Inception Net.
 
 ## main code
 
@@ -437,3 +439,9 @@ run_inference_on_image('image/reCAPTCHA9.png')
     tobacco shop, tobacconist shop, tobacconist (score = 0.00088)
     thresher, thrasher, threshing machine (score = 0.00087)
     
+![image1](/1.classification/image/image1.jpg)
+![image2](/1.classification/image/image2.jpg)
+
+### Conclusion
+The picture quality was not very good, but we all correctly determined whether the bus was included. 
+Program using Inception Net will be able to break through the reCAPTCHA.
