@@ -47,13 +47,21 @@ We used **ssdlite_mobilenet_v2_coco<a href="http://download.tensorflow.org/model
 
 ## Result
 ### graph
-**DetectionBoxes_Precision**
+**DetectionBoxes_Precision(coco_metrics)**
 
 ![DetectionBoxes_Precision](images/DetectionBoxes_Precision.png)
 
-**DetectionBoxes_Recall**
+**DetectionBoxes_Recall(coco_metrics)**
 
 ![DetectionBoxes_Recall](images/DetectionBoxes_Recall.png)
+
+**Performance by category(oid_v2_metrics)**
+
+![oid_metrics_category](images/oid_metrics_category.png)
+
+**Performance by total(oid_v2_metrics)**
+
+![oid_metrics_total](images/oid_metrics_total.png)
 
 ### Image(Left : our model / Right : ground truth )
 ![result1](images/result1.png)
