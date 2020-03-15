@@ -226,12 +226,6 @@ img
 run_inference_on_image('image/reCAPTCHA1.png')
 ```
 
-    WARNING: Logging before flag parsing goes to stderr.
-    W0223 10:54:59.605619 18828 deprecation.py:323] From <ipython-input-1-0fd8df8e7765>:120: FastGFile.__init__ (from tensorflow.python.platform.gfile) is deprecated and will be removed in a future version.
-    Instructions for updating:
-    Use tf.gfile.GFile.
-    
-
     moving van (score = 0.73877)
     golfcart, golf cart (score = 0.04019)
     mobile home, manufactured home (score = 0.01723)
