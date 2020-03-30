@@ -1,7 +1,6 @@
-# Tensorflow-API-Master
+# Tensorflow-API-Master ![HitCount](http://hits.dwyl.com/HwangToeMat/Tensorflow-API-HTM.svg)
 **Carry out various projects by using tensorflow-API.**
 
-![HitCount](http://hits.dwyl.com/HwangToeMat/Tensorflow-API-HTM.svg)
 
 ## 0. Open-Images_EasyDownload 
 Easiest way to get the Data for Deep Learning, by using “Open Images”.
